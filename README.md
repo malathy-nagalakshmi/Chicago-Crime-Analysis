@@ -1,2 +1,2 @@
 # Chicago-Crime-Analysis
-Analyse the trends of crimes in Chicago and visualise them
+We analyze the trends of crimes in Chicago and visualize them to find out where and when they took place and what kind of a crime it was. We visualize Yearly, monthly, weekly and daily violence trends and produce statistics such as ‘Dangerous days of the Years’, ‘Dangerous times of a day’, ‘Top 10 Locations with high crime rate’ etc. We also apply Machine Learning models, namely K Nearest Neighbors, Neural Network, Random Forest Classifier and Voting ensemble to predict what kind of crime is going to take place based on the available data about location, time, etc
